@@ -31,7 +31,7 @@
         }
 
         for (var i = 0; i < count; i++){
-            tmp += this;
+            tmp += str;
         }
 
         return tmp;
